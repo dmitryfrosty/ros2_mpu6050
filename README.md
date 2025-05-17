@@ -25,6 +25,12 @@ To run this example without issues, the following environment setup are preferre
 
 **Just clone this repository on your ros2 workspace/src.
 
+### Install libi2c-dev
+```
+sudo apt update
+sudo apt install libi2c-dev
+```
+
 ### Sensor Calibration
 
 The following steps provides detailed info to calibrate the sensor if necessary:
