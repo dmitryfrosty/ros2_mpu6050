@@ -39,10 +39,10 @@ mpu6050_sensor:
     clock_src: 0
 
     # [deg/s]
-    gyro_x_offset: 0.0
-    gyro_y_offset: 0.0
-    gyro_z_offset: 0.0
+    gyro_x_offset: -1.29012
+    gyro_y_offset: 0.744702
+    gyro_z_offset: 0.47945
     # [m/s²]
-    accel_x_offset: 0.0
-    accel_y_offset: 0.0
-    accel_z_offset: 0.0
+    accel_x_offset: 0.944888
+    accel_y_offset: -0.294137
+    accel_z_offset: 10.3852
